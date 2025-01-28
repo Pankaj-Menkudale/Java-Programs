@@ -9,6 +9,7 @@ public class Countvowels {
             || name.charAt(i) == 'u') {
                 count++;
              }
+             //hello
                 }
                 return count;
     }
